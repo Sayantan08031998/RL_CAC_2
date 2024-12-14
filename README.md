@@ -13,6 +13,7 @@ In test_notebook (or separately) call:
 
 
 ### Code functionality: <br>
+
 #### Running scripts
 1. testing.py
 * define here which environment to use
@@ -52,6 +53,7 @@ evaluate_agent.py
         options (for `type_of_phi`): 0 = linear, 1 = quadratic, 2 = RBF
 
 #### Result : 
-     result is present in the results folder containing the csv files
+    - result is present in the results folder containing the csv files
+    - report is present with the name Report_RL_52_57_62
    
 
