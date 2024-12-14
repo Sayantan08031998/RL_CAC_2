@@ -42,7 +42,7 @@ evaluate_agent.py
     * approximate sarsa algorithm 
     * choose phi carefully (which variables to include)
 3. reinforce.py
-    * implements REINFORCE agent
+    * implement REINFORCE agents
     * choose alpha carefully
     * choose phi (the Kernel) carefully (quadratic and RBF kernels might work better than linear kernels) <br>
         options (for `type_of_phi`): 0 = linear, 1 = quadratic, 2 = RBF
