@@ -1,11 +1,6 @@
 # Reinforcement Learning for Supply Chain Optimization
 Reinforcement Learning implementation in Python to optimize a supply chain. COmparison of Sarsa and REINFORCE algorithms against a simple baseline.
 
-Projects includes code for the paper: 
-Kemmer, L., von Kleist, H., de Rochebouët, D., Tziortziotis, N., & Read, J. (2018). Reinforcement learning for supply chain optimization. In European Workshop on Reinforcement Learning (Vol. 14, No. 10).
-
-
-
 ### How to run: <br>
 In test_notebook (or separately) call:
 * Run testing.py to do multiple runs with the different environments already created or to create new ones. The results are stored in results/
